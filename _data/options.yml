@@ -1,0 +1,12 @@
+- key: lineNumbers
+  name: Line numbers
+  checked: false
+- key: _unescape
+  name: Unescape strings
+  checked: false
+- key: methodChain
+  name: Recover object-path
+  checked: true
+- key: calc
+  name: Execute expression
+  checked: true
